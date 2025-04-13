@@ -48,6 +48,7 @@ public class PruebaPersona {
          int dif=per1.diferenciaEdad(per2);
          System.out.println("Diferencia de edad entre persona 1 y persona 2 es de " + dif + " años");
          System.out.println("Finalizado");
+         System.out.println("Carmelo el mejor");
     }
     
 }
